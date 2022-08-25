@@ -30,7 +30,7 @@
 
 #### Clone or download this repository
 ```bash
-git clone git@github.com:RTippin/messenger-demo.git
+git clone https://github.com/KhjMeister/chat_laravel_javascript.git
 ```
 
 #### Composer install
