@@ -10,7 +10,7 @@
 - Faker commands [messenger-faker](https://github.com/RTippin/messenger-faker)
 - Janus media server client [janus-client](https://github.com/RTippin/janus-client)
 
-## Checkout the [LIVE DEMO](https://tippindev.com)
+
 
 ### Prerequisites
 - PHP >= 7.4
