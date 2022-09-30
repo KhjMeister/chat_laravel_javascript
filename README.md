@@ -1,6 +1,9 @@
 # [Chat App]
 
-![image](https://user-images.githubusercontent.com/95680946/193210614-465b6863-8388-41fc-9f48-185073ee1428.png)
+![image](https://user-images.githubusercontent.com/95680946/193211210-bf8f2b48-f10d-429c-829e-486f358873c9.png)
+
+![image](https://user-images.githubusercontent.com/95680946/193211472-6bd3574a-45d6-42fd-857a-022580e04488.png)
+
 
 ---
 
@@ -69,10 +72,4 @@ php artisan queue:work --queue=messenger,messenger-bots
 
 ### All other seeded accounts use `messenger` password as well
 
----
 
-## UI configurations / Websockets
-- If you plan to use [laravel-websockets](https://beyondco.de/docs/laravel-websockets/getting-started/introduction), or want more information regarding our UI, please visit our documentation:
-  - [Messenger UI README](https://github.com/RTippin/messenger-ui/blob/master/README.md)
-
----
